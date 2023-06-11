@@ -18,7 +18,19 @@ Languages/ Technologies used:
 
 ## Setup
 
+Import the following modules and libraries:
 
+``` 
+from sklearn import preprocessing
+import sklearn
+from sklearn.utils import shuffle
+from sklearn.neighbors import KNeighborsRegressor, KNeighborsClassifier
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+from sklearn import linear_model, preprocessing
+
+```
 
 ## Using the program
 
