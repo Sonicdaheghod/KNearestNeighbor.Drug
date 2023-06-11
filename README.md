@@ -34,7 +34,16 @@ from sklearn import linear_model, preprocessing
 
 ## Using the program
 
+1. Import and open .csv file of your choice
 
+In this project, the file I used is "drug200.csv". 
+
+```
+data = pd.read_csv("drug200.csv",index_col =0)
+data.head()
+
+```
+<img width="284" alt="image" src="https://github.com/Sonicdaheghod/KNearestNeighbor.Drug/assets/68253811/a96ba117-302e-4c4b-badf-b3ea86dca58d">
 
 
 ### Credits
