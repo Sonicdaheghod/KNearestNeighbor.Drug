@@ -61,7 +61,9 @@ if we print out one of the variables after converting the contents, it should pr
 
 <img width="445" alt="image" src="https://github.com/Sonicdaheghod/KNearestNeighbor.Drug/assets/68253811/a9538199-b4fb-4d4f-88ee-89173bbd0715">
 
-3. After preparing the model for prediction and training the model with the training data, now test the KNN model. (insert more text)
+3. After preparing the model for prediction and training the model with the training data, now test the KNN model. 
+
+The model will predict from the data points for the variables "sex","BP", "Na to K" and "Cholesterol" with the corresponding drug that should be administered. We will then compare the prediction with the actual drug (in other words, the correct answer).
 
 <img width="325" alt="image" src="https://github.com/Sonicdaheghod/KNearestNeighbor.Drug/assets/68253811/168847a0-6157-4547-9fb1-09014aad7478">
 
