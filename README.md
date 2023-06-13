@@ -57,6 +57,14 @@ Cholesterol = integer.fit_transform(list(data["Cholesterol"]))
 Na_to_K = integer.fit_transform(list(data["Na_to_K"]))
 Drug = integer.fit_transform(list(data["Drug"]))
 ```
+if we print out one of the variables after converting the contents, it should print out each data point into a number instead of a string. 
+
+<img width="445" alt="image" src="https://github.com/Sonicdaheghod/KNearestNeighbor.Drug/assets/68253811/a9538199-b4fb-4d4f-88ee-89173bbd0715">
+
+3. After preparing the model for prediction and training the model with the training data, now test the KNN model. (insert more text)
+
+<img width="325" alt="image" src="https://github.com/Sonicdaheghod/KNearestNeighbor.Drug/assets/68253811/168847a0-6157-4547-9fb1-09014aad7478">
+
 
 ### Credits
 This project was inspired by [Tech with Tim's Tutorial](https://www.techwithtim.net/tutorials/machine-learning-python/k-nearest-neighbors-3)
