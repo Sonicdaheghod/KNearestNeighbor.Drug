@@ -46,6 +46,17 @@ data.head()
 ```
 <img width="284" alt="image" src="https://github.com/Sonicdaheghod/KNearestNeighbor.Drug/assets/68253811/a96ba117-302e-4c4b-badf-b3ea86dca58d">
 
+2. Since the data in the .csv file is categorical, the machine used here cannot process it. So, we must convert the categorical data to numerical data.
+
+```
+integer = preprocessing.LabelEncoder()
+
+Sex = integer.fit_transform(list(data["Sex"]))
+BP = integer.fit_transform(list(data["BP"]))
+Cholesterol = integer.fit_transform(list(data["Cholesterol"]))
+Na_to_K = integer.fit_transform(list(data["Na_to_K"]))
+Drug = integer.fit_transform(list(data["Drug"]))
+```
 
 ### Credits
 This project was inspired by [Tech with Tim's Tutorial](https://www.techwithtim.net/tutorials/machine-learning-python/k-nearest-neighbors-3)
