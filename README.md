@@ -13,8 +13,9 @@ This program was created to understand the basics behind K Nearest Neighbor (KNN
 ## Technologies
 Languages/ Technologies used:
 
-*Jupyter Notebook
-*Python3
+* Jupyter Notebook
+
+* Python3
 
 ## Setup
 
@@ -48,4 +49,5 @@ data.head()
 
 ### Credits
 This project was inspired by [Tech with Tim's Tutorial](https://www.techwithtim.net/tutorials/machine-learning-python/k-nearest-neighbors-3)
+
 Dataset from [PRATHAM TRIPATHI](https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
