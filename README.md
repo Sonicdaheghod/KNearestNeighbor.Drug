@@ -5,7 +5,7 @@ by Megan Tran
 * [Purpose of Program](#Purpose-of-program)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [How to Use the Program](#How-to-Use-the-Program)
+* [Using the Program](#Using-the-Program)
 
 ## Purpose of Program
 This program was created to understand the basics behind K Nearest Neighbor (KNN) algorithm for data classificaiton. 
