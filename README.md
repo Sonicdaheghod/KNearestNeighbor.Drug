@@ -47,4 +47,5 @@ data.head()
 
 
 ### Credits
-This project was inspired by 
+This project was inspired by [Tech with Tim's Tutorial](https://www.techwithtim.net/tutorials/machine-learning-python/k-nearest-neighbors-3)
+Dataset from [PRATHAM TRIPATHI](https://www.kaggle.com/datasets/prathamtripathi/drug-classification)
